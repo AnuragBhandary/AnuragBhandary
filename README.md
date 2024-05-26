@@ -6,4 +6,3 @@ I am also learning how to contribute to open source codes so that I can upgrade 
 My main language is Python. I currently like making games with Pygame.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragbhandary&theme=transparent)
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbhandary&layout=compact&theme=buefy&hide_border=true" /></a>
