@@ -5,7 +5,7 @@ Currently solving Leetcodes.
 I am also learning how to contribute to open source codes so that I can upgrade my skills.
 My main language is Python. I currently like making games with Pygame.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragbhandary&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragbhandary&theme=transparent)
 
 
 
