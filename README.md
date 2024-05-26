@@ -4,8 +4,8 @@ I'm a student at the University of Texas at Arlington, pursuing a Master's Degre
 
 
 ## 🌐 Socials:
-#### LINKEDIN -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-bhandary-603023206) 
-#### LEETCODE -  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+#### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-bhandary-603023206) 
+#### ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 ## 💻 Tech Stack:
 | Python3 |
