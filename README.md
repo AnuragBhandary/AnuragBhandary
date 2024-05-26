@@ -1,5 +1,6 @@
 # 💫 About Me:
-### Hi, I'm Anurag Bhandary.<br>I'm a student at the University of Texas at Arlington, pursuing a Master's Degree in Computer Science.<br>🔭 I’m currently working on solving Leetcodes.<br>🌱 I’m currently learning DSA and Python.<br>
+### Hi, I'm Anurag Bhandary.
+<br>I'm a student at the University of Texas at Arlington, pursuing a Master's Degree in Computer Science.<br>🔭 I’m currently working on solving Leetcodes.<br>🌱 I’m currently learning DSA and Python.<br>
 
 
 ## 🌐 Socials:
