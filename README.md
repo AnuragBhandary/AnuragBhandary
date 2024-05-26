@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag!" src="./assets/gh-readme-header.png" /></a></p>
+### Hi, I'm Anurag!
 
 I'm a student at the University of Texas at Arlington, pursuing a Master's Degree in Computer Science.
 Currently solving Leetcodes.
