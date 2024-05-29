@@ -4,6 +4,7 @@ I'm a student at the University of Texas at Arlington, pursuing a Master's Degre
 
 
 ## 🌐 Socials:
+<a href="https://linkedin.com/in/anurag-bhandary-603023206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-bhandary-603023206/" height="30" width="40" /></a>
 ### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-bhandary-603023206) 
 ### [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/anuragb2901/)
 
