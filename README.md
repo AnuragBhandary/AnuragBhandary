@@ -2,11 +2,11 @@
 I'm a student at the University of Texas at Arlington, pursuing a Master's Degree in Computer Science.<br>🔭 I’m currently working on solving Leetcodes.<br>🌱 I’m currently learning DSA and Python.<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <a href="https://linkedin.com/in/anurag-bhandary-603023206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-bhandary-603023206/" height="30" width="40" /></a>
 ### [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/anuragb2901/)
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 | Python3 |
 |----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
