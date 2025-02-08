@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Anurag Bhandary <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 <p align ="justify">I'm a student at the University of Texas at Arlington, pursuing a Master's Degree in Computer Science. I’m really passionate about technology and love solving problems through coding. My goal is to become a software developer, creating applications that are not just functional but also user-friendly and impactful. I enjoy learning new programming languages and techniques, and I’m excited about the endless possibilities in software development. For me, it’s not just about writing code—it’s about building something meaningful that can make a difference.</p>
-<br></br>
+
 <br>🔭 I’m currently working on solving Leetcodes and creating projects.<br>🌱 Learning Python and Java.<br>
 
 
