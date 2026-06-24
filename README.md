@@ -1,31 +1,191 @@
-# 💫 Hi, I'm Anurag Bhandary <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
-<p align ="justify">I'm a student at the University of Texas at Arlington, pursuing a Master's Degree in Computer Science. I’m really passionate about technology and love solving problems through coding. My goal is to become a software developer, creating applications that are not just functional but also user-friendly and impactful. I enjoy learning new programming languages and techniques, and I’m excited about the endless possibilities in software development. For me, it’s not just about writing code, it’s about building something meaningful that can make a difference.</p>
+# 💫 Hi, I'm Anurag Bhandary <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" width="40" />
 
-<br>🔭 I’m currently working on solving Leetcodes and creating projects.<br>🌱 Learning Python and Java.<br>
+Backend-focused Software Engineer with experience building scalable APIs, event-driven systems, and AI-powered applications using Python.
 
+I recently completed my M.S. in Computer Science from the University of Texas at Arlington and have worked on systems involving FastAPI, Apache Kafka, WebSockets, PostgreSQL, AWS, Docker, and LLM integrations. I enjoy designing backend architectures, building distributed systems, and developing applications that solve real-world problems.
 
-# 🌐 Socials:
-<a href="https://linkedin.com/in/anurag-bhandary-603023206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-bhandary-603023206/" height="30" width="40" /></a>
-### [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/anuragb2901/)
+My interests include backend engineering, cloud technologies, distributed systems, artificial intelligence, software architecture, and game development. I enjoy exploring different areas of software engineering, from real-time systems and AI-powered applications to creating interactive games and user experiences.
 
-# 💻 Tech Stack:
-| Python3 |
-|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+🔭 Currently working on backend projects, system design, and improving my problem-solving skills through LeetCode.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+🌱 Currently learning advanced AWS, distributed systems, Kubernetes, and scalable system design.
 
+🎮 Outside of backend development, I've built game development projects using Pygame, including platformers and fighting-game mechanics.
 
-## 🏆 LeetCode Stats
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/anuragb2901?theme=dark&font=Noto%20Sans)
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnuragBhandary&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragBhandary&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+⚡ Fun fact: I've built real-time event streaming systems, AI-powered commentary pipelines, full-stack web applications, and game development projects.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnuragBhandary&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/anurag-bhandary-603023206" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="48" width="48" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://anuragbhandary.github.io" target="_blank">
+  <img src="https://anuragbhandary.github.io/favicon.svg" height="48" width="48" alt="Portfolio"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:bhandaryanurag@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="48" width="48" alt="Email"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" /><br>
+<b>Python</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" /><br>
+<b>Java</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" /><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" /><br>
+<b>HTML5</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" /><br>
+<b>CSS3</b>
+</td>
+</tr>
+</table>
+
+### Backend & APIs
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" /><br>
+<b>FastAPI</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flask" /><br>
+<b>Flask</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Kafka-white?style=for-the-badge&logo=apachekafka&logoColor=black"/><br>
+<b>Kafka</b>
+</td>
+</tr>
+</table>
+
+### Frontend
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" /><br>
+<b>React</b>
+</td>
+</tr>
+</table>
+
+### Databases
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" /><br>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" /><br>
+<b>MySQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sqlite" /><br>
+<b>SQLite</b>
+</td>
+</tr>
+</table>
+
+### Cloud & DevOps
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" /><br>
+<b>AWS</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" /><br>
+<b>Docker</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" /><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" /><br>
+<b>Linux</b>
+</td>
+</tr>
+</table>
+
+### AI & Generative AI
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/ChatGPT-white?style=for-the-badge&logo=openai&logoColor=black"/><br>
+<b>ChatGPT</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Claude-white?style=for-the-badge&logo=anthropic&logoColor=black"/><br>
+<b>Claude</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Gemini-white?style=for-the-badge&logo=googlegemini&logoColor=4285F4"/><br>
+<b>Gemini</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Groq-white?style=for-the-badge&logo=groq&logoColor=black"/><br>
+<b>Groq</b>
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/anuragb2901?theme=dark\&font=Noto%20Sans)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnuragBhandary\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragBhandary\&theme=dark\&hide_border=false\&layout=compact)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=AnuragBhandary\&icon=0\&color=0)
