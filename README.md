@@ -82,7 +82,7 @@ My interests include backend engineering, cloud technologies, distributed system
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/badge/Kafka-white?style=for-the-badge&logo=apachekafka&logoColor=black"/><br>
+<img src="https://skillicons.dev/icons?i=kafka&theme=light" /><br>
 <b>Kafka</b>
 </td>
 </tr>
