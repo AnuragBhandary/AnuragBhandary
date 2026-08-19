@@ -177,15 +177,3 @@ My interests include backend engineering, cloud technologies, distributed system
 ## 🏆 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anuragb2901?theme=dark\&font=Noto%20Sans)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnuragBhandary\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragBhandary\&theme=dark\&hide_border=false\&layout=compact)
-
----
-
-![](https://visitcount.itsvg.in/api?id=AnuragBhandary\&icon=0\&color=0)
