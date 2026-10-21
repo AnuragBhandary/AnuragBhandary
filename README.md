@@ -176,8 +176,6 @@ I have an M.S. in Computer Science from the University of Texas at Arlington. At
 
 ## 🏆 LeetCode
 
-I practise every day. The card below redraws itself every 6 hours.
-
 <a href="https://leetcode.com/u/anuragb2901/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/leetcode-dark.svg">
@@ -185,10 +183,3 @@ I practise every day. The card below redraws itself every 6 hours.
 </picture>
 </a>
 
----
-
-## 🎮 Off the Clock
-
-I also make games. **Dev Run** is a small action platformer I coded in plain JavaScript on a canvas, no engine. It is hidden in my portfolio: press the controller in the dock to play.
-
-<a href="https://anuragbhandary.github.io"><img src="assets/dev-run.gif" alt="Dev Run gameplay: the hero runs, jumps and slashes through the first zone" width="100%"></a>
