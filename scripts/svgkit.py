@@ -37,7 +37,7 @@ def font_faces(text, faces):
     """@font-face rules for `faces` [(family, weight)], each subset to the characters in `text`."""
     rules = []
     for family, weight in faces:
-        font = TTFont(FONTS / _FILES[(family, weight)])
+        font = TTFont(FONTS / _FILES[(family, weight)], recalcTimestamp=False)  # same bytes every run
         sub = subset.Subsetter(subset.Options(flavor="woff2", layout_features=["kern"], name_IDs=[], hinting=False))
         sub.populate(text=text + " ")
         sub.subset(font)
