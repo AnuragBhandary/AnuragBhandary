@@ -14,7 +14,7 @@ I have an M.S. in Computer Science from the University of Texas at Arlington. At
 
 - 🔭 **Open to** backend, data and full-stack roles, happy to relocate
 - 🌱 **Learning** AWS beyond S3, and system design for interviews
-- 🛠️ **Latest push** <!--NOW:START-->[Ecommerce-Analytics-Warehouse](https://github.com/AnuragBhandary/Ecommerce-Analytics-Warehouse): Olist e-commerce warehouse: MySQL source simulator, incremental EL with late-commit lookback, dbt star schema… <sub>(22 Oct 2026)</sub><!--NOW:END-->
+- 🛠️ **Latest push** <!--NOW:START-->[Streaming-Consumer-Benchmark](https://github.com/AnuragBhandary/Streaming-Consumer-Benchmark): Same Kafka-to-socket fan-out server written twice: Java 21 virtual threads (blocking) vs Python asyncio… <sub>(2 Nov 2026)</sub><!--NOW:END-->
 
 ---
 
